@@ -26,5 +26,5 @@
 .buttonposition{
     position: relative;
     text-align: center;
-    bottom: -100px;
+    top: 120px;
 }
